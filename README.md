@@ -18,3 +18,5 @@ probando issue
 segundo issue ffff
 
 cerrando fffffff
+
+prueba en rama clase
